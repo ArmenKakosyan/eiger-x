@@ -26,10 +26,10 @@
   </div>
 
   <div class="w-full font-default">
-    <h2 class="text-[32px] font-bold leading-[38px] text-white-primary opacity-70">
+    <h2 class="text-[31px] font-bold leading-[38px] text-white-primary opacity-70">
       Hello there
     </h2>
-    <h3 class="text-[32px] font-bold leading-[38px] text-white-primary">
+    <h3 class="text-[31px] font-bold leading-[38px] text-white-primary">
       How can we help?
     </h3>
   </div>
